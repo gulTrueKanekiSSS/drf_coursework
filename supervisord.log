@@ -1,0 +1,53 @@
+2024-07-06 14:57:32,552 INFO daemonizing the supervisord process
+2024-07-06 14:57:32,553 INFO supervisord started with pid 52758
+2024-07-06 14:57:33,556 INFO spawned: 'django' with pid 52761
+2024-07-06 14:57:33,557 INFO spawned: 'telegram_bot' with pid 52762
+2024-07-06 14:57:34,094 WARN exited: telegram_bot (exit status 1; not expected)
+2024-07-06 14:57:35,252 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-06 14:57:35,257 INFO spawned: 'telegram_bot' with pid 52766
+2024-07-06 14:57:35,508 WARN exited: telegram_bot (exit status 1; not expected)
+2024-07-06 14:57:37,515 INFO spawned: 'telegram_bot' with pid 52767
+2024-07-06 14:57:37,780 WARN exited: telegram_bot (exit status 1; not expected)
+2024-07-06 14:57:40,785 INFO spawned: 'telegram_bot' with pid 52768
+2024-07-06 14:57:41,020 WARN exited: telegram_bot (exit status 1; not expected)
+2024-07-06 14:57:42,022 INFO gave up: telegram_bot entered FATAL state, too many start retries too quickly
+2024-07-06 15:01:52,860 INFO daemonizing the supervisord process
+2024-07-06 15:01:52,860 INFO supervisord started with pid 52819
+2024-07-06 15:01:53,866 INFO spawned: 'django' with pid 52822
+2024-07-06 15:01:53,869 INFO spawned: 'telegram_bot' with pid 52823
+2024-07-06 15:01:54,607 WARN exited: telegram_bot (exit status 1; not expected)
+2024-07-06 15:01:54,641 WARN exited: django (exit status 1; not expected)
+2024-07-06 15:01:55,646 INFO spawned: 'django' with pid 52826
+2024-07-06 15:01:55,649 INFO spawned: 'telegram_bot' with pid 52827
+2024-07-06 15:01:55,912 WARN exited: telegram_bot (exit status 1; not expected)
+2024-07-06 15:01:56,313 WARN exited: django (exit status 1; not expected)
+2024-07-06 15:01:58,318 INFO spawned: 'django' with pid 52832
+2024-07-06 15:01:58,320 INFO spawned: 'telegram_bot' with pid 52833
+2024-07-06 15:01:58,502 WARN exited: telegram_bot (exit status 1; not expected)
+2024-07-06 15:01:58,862 WARN exited: django (exit status 1; not expected)
+2024-07-06 15:02:01,870 INFO spawned: 'django' with pid 52837
+2024-07-06 15:02:01,874 INFO spawned: 'telegram_bot' with pid 52838
+2024-07-06 15:02:02,071 WARN exited: telegram_bot (exit status 1; not expected)
+2024-07-06 15:02:02,264 INFO gave up: telegram_bot entered FATAL state, too many start retries too quickly
+2024-07-06 15:02:02,426 WARN exited: django (exit status 1; not expected)
+2024-07-06 15:02:03,428 INFO gave up: django entered FATAL state, too many start retries too quickly
+2024-07-06 15:07:24,430 INFO daemonizing the supervisord process
+2024-07-06 15:07:24,431 INFO supervisord started with pid 52922
+2024-07-06 15:07:25,437 INFO spawned: 'django' with pid 52925
+2024-07-06 15:07:25,440 INFO spawned: 'telegram_bot' with pid 52926
+2024-07-06 15:07:25,691 WARN exited: telegram_bot (exit status 1; not expected)
+2024-07-06 15:07:26,232 WARN exited: django (exit status 1; not expected)
+2024-07-06 15:07:27,237 INFO spawned: 'django' with pid 52929
+2024-07-06 15:07:27,241 INFO spawned: 'telegram_bot' with pid 52930
+2024-07-06 15:07:27,437 WARN exited: telegram_bot (exit status 1; not expected)
+2024-07-06 15:07:27,803 WARN exited: django (exit status 1; not expected)
+2024-07-06 15:07:29,808 INFO spawned: 'django' with pid 52933
+2024-07-06 15:07:29,811 INFO spawned: 'telegram_bot' with pid 52934
+2024-07-06 15:07:30,063 WARN exited: telegram_bot (exit status 1; not expected)
+2024-07-06 15:07:30,480 WARN exited: django (exit status 1; not expected)
+2024-07-06 15:07:33,489 INFO spawned: 'django' with pid 52937
+2024-07-06 15:07:33,494 INFO spawned: 'telegram_bot' with pid 52938
+2024-07-06 15:07:33,685 WARN exited: telegram_bot (exit status 1; not expected)
+2024-07-06 15:07:33,888 INFO gave up: telegram_bot entered FATAL state, too many start retries too quickly
+2024-07-06 15:07:34,055 WARN exited: django (exit status 1; not expected)
+2024-07-06 15:07:35,057 INFO gave up: django entered FATAL state, too many start retries too quickly
